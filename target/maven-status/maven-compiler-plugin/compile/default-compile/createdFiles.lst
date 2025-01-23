@@ -1,6 +1,0 @@
-com/rikkikatz/receiptprocessor/utils/PointsCalculator.class
-com/rikkikatz/receiptprocessor/model/Item.class
-com/rikkikatz/receiptprocessor/service/ReceiptService.class
-com/rikkikatz/receiptprocessor/controller/ReceiptController.class
-com/rikkikatz/receiptprocessor/ReceiptProcessorApplication.class
-com/rikkikatz/receiptprocessor/model/Receipt.class
