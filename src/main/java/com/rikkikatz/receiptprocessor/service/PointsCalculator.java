@@ -1,4 +1,4 @@
-package com.rikkikatz.receiptprocessor.utils;
+package com.rikkikatz.receiptprocessor.service;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
@@ -8,7 +8,7 @@ import com.rikkikatz.receiptprocessor.model.Receipt;
 
 public class PointsCalculator {
     
-    public int calculatePoints(Receipt receipt) {
+    int calculatePoints(Receipt receipt) {
         int points = 0;
 
          // One point for every alphanumeric character in the retailer name.

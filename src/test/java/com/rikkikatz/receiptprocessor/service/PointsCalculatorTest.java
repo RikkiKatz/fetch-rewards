@@ -1,4 +1,4 @@
-package com.rikkikatz.receiptprocessor.utils;
+package com.rikkikatz.receiptprocessor.service;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

@@ -3,7 +3,6 @@ package com.rikkikatz.receiptprocessor.service;
 import org.springframework.stereotype.Service;
 
 import com.rikkikatz.receiptprocessor.model.Receipt;
-import com.rikkikatz.receiptprocessor.utils.PointsCalculator;
 
 import java.util.HashMap;
 import java.util.Map;
